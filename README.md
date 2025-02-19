@@ -1,4 +1,6 @@
-# Bankist Website
+# [Bankist Website 🏦](https://bankist-website-mihailomarkovic.netlify.app/)
+
+![Picture of Bankist Website on a laptop.](/img/readme-img.png)
 
 ## Introduction
 
